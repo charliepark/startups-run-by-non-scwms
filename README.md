@@ -6,6 +6,7 @@ Company | Industry | Jobs
 :------ | :------- | :---
 [Findery](https://findery.com/) | social, sharing, geo | [openings](https://findery.com/jobs)
 [Food to Eat](https://www.foodtoeat.com) | food, office catering | [openings](https://www.foodtoeat.com/p/careers)
+[Jewelbots](http://jewelbots.com) | engineering, jewelry | ?
 [Kabam](http://kabam.com/) | gaming | [openings](http://careers.kabam.com/careers)
 [Paradigm](http://www.paradigmiq.com/) | consulting, training | Email resume to work@paradigmIQ.com
 [Rent the Runway](https://www.renttherunway.com/) | fashion | [openings](https://www.renttherunway.com/pages/about#about-openings)
