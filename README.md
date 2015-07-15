@@ -21,13 +21,6 @@ Company | Industry | Jobs
 A list of startups run by people who are not straight-cis-white-men. Would love your help adding to it!
 
 
-#### Why?
-
-I was inspired by the "About" section of [the Walker and Company](http://walkerandcompany.com/) site, and wanted to find more companies that didn't have the same straight, cis, white dude leadership team. I wasn't able to find a list, so I thought I'd make one.
-
-I also added a "jobs" column in case you're looking to join a company with a diverse leadership team. (If you're interested in working with me at IFTTT (even though we aren't on this list), I'd love to tell you more! Email me!)
-
-
 #### How do I add to it?
 
 **If you have an account on GitHub:** Pull Requests are great! If you haven't done one before, I'd love to show you how to do one! Email me ([charlie@charliepark.org](charlie@charliepark.org)) and I'll walk you through it!
