@@ -1,4 +1,4 @@
-# Startups Run By Non-Straight-Cis-White-Men
+# Startups Run By People Who Aren't Straight + Cis + White + Men
 
 ##### What is this?
 
